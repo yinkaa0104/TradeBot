@@ -1,11 +1,11 @@
 
- Tactical: Gamified Trading Competition Platform
+ TradeBot: Gamified Trading Competition Platform
 
 A decentralized smart contract platform built on Stacks (Clarity) that enables users to compete in strategic trading competitions with performancebased prize distributions.
 
  Overview
 
-Tactical is a gamified trading competition where participants execute strategic long/short positions across multiple assets, compete on a realtime leaderboard, and win prizes based on their trading performance metrics. The contract handles position lifecycle management, PnL calculations, leverage trading, and transparent leaderboard rankings.
+TradeBot is a gamified trading competition where participants execute strategic long/short positions across multiple assets, compete on a realtime leaderboard, and win prizes based on their trading performance metrics. The contract handles position lifecycle management, PnL calculations, leverage trading, and transparent leaderboard rankings.
 
  Features
 
